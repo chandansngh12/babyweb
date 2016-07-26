@@ -1,0 +1,188 @@
+
+body{
+	font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+	background-image: url("img/backround1.jpg");
+  overflow: hidden;
+	overflow-y: hidden;
+  padding-top: 50px;
+	background-color:#222233;
+}
+@font-face {
+	font-family: myFirstFont;
+   src: url(word_love.ttf);
+}
+@font-face {
+	font-family: myFirstPageFont;
+   src: url(JeanSunHoBold.ttf);
+}
+@font-face {
+	font-family: cheri;
+   src: url(cheri.ttf);
+
+}
+@font-face {
+	font-family: AlexBrush;
+   src: url(AlexBrush.ttf);
+
+}
+
+@font-face {
+	font-family: word_love;
+   src: url(word_love.ttf);
+
+}
+@font-face {
+	font-family: games;
+   src: url(games.ttf);
+
+}
+
+
+.menu{
+display:none;
+
+}
+.menu .navbar-brand{
+	line-height: 45px;
+}
+
+.navbar-brand{float:none;
+font-size: 26px;
+}
+/*index1.html*/
+.frontmessage{
+	font-family:cheri;
+
+}
+
+
+
+/*adorable.html*/
+.tofade{
+display: none;
+}
+.ontop {
+    position: relative;
+
+}
+.message{
+font-family:AlexBrush;
+color:
+
+}
+
+.ontop h1 {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    padding: 10px;
+    color: #000;
+    margin: 5px;
+		width: 450px;
+		/*background:#000;
+    background:rgba(0,0,0,0.5);*/
+		word-wrap: break-word;
+}
+
+.ontopm {
+    position: relative;
+
+}
+.ontopm h3 {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    padding: 10px;
+		width:170px;
+    color: #FFF;
+    margin: 5px;
+		background:rgba(0,0,0,0.5);
+		word-wrap: break-word;
+}
+
+/*sweet.html*/
+.sweet{
+	display: none;
+	font-family: AlexBrush;
+}
+ .sweet img {
+	 max-width:100%;
+	 height:auto;
+
+ }
+ .sweet div {
+	padding:0px;
+ }
+.adipoli-wrapper{
+	display: block !important;
+}
+ .box {
+   cursor: pointer;
+/*overflow: hidden;*/
+  text-align: center;
+ }
+/*nuaghty page*/
+.warning{
+    color:#fff;
+    margin-top: 5%;
+		text-align: left;
+}
+
+.warning-button{
+	border: 1px solid white;
+	color:white;
+	padding:5px 25px 5px 25px;
+	background: #cd3426;
+	margin-top:10px;
+}
+
+.warningafter{
+	display:none;
+
+}
+
+.poem{
+padding-top: ;
+padding-bottom: 15%;
+font-family: AlexBrush;
+font-size:1.9em;
+}
+.over{
+	background: #000;
+	background:rgba(0,0,0,0.5);
+	width:100%;
+	height: auto;
+}
+.warningafter img{
+	max-width:100%;
+	height:auto;
+}
+/*//heavenly.html*/
+.heaven{
+
+	background:rgba(0,0,0,0.5);
+
+	color:#fff;
+
+}
+.correct{
+	padding:10px 10px 10px 10px;
+	margin-top: 10px;
+}
+.messageheaven h1{
+font-family: myFirstFont;
+font-size: 3.7em !important ;
+padding-bottom: 10% !important;
+text-align: center;
+}
+
+/*//awesome*/
+.slideIn img{
+width: 100%;
+height: auto;
+}
+
+.slideIn{
+font-family:games;
+font-weight: bold;
+}
